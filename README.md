@@ -1,10 +1,6 @@
-# 🧪 CTF Alquymia - Relatório Técnico de Penetration Test
+# 🧪 CTF Alquymia - CyberTSI
 
-![Category](https://img.shields.io/badge/Category-CTF-brightgreen)
-![Security](https://img.shields.io/badge/Security-Red%20Team-red)
-![Status](https://img.shields.io/badge/Status-Complete-success)
-
-Este repositório documenta a resolução completa dos desafios do **CTF Alquymia**. Cada writeup abaixo inclui a análise técnica da vulnerabilidade, a explicação teórica do conceito explorado e os comandos exatos utilizados para reproduzir a exploração.
+Este repositório documenta a resolução de alguns dos desafios do **CTF Alquymia**.
 
 ## 📋 Índice
 
@@ -298,7 +294,4 @@ O sistema de login utilizava PHP com comparação fraca (`==`) para validar hash
 
 🚩 **Flag:** `ALQ{9e99271ab05b699b6a6eabd78ce889ba}`
 
----
 
-### ⚠️ Disclaimer
-Este repositório documenta a resolução de desafios em um ambiente controlado de CTF. As técnicas demonstradas têm fins estritamente educacionais.
